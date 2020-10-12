@@ -1,0 +1,31 @@
+body{
+  /*background-color: red;*/
+  /*color: white;*/
+  /* hello i am comment*/
+  font-size: 36px;
+}
+h1 {
+  font-size: 36px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 36px;
+}
+
+#hello {
+
+}
+
+.hello {
+
+}
+
+.dada {
+  font-size: 20px;
+}
+.baba {
+  font-size: 200%;
+}
+.me {
+  font-size: 100%; 
+}
